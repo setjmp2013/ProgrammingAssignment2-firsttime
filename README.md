@@ -1,3 +1,9 @@
+### Old Archive Copy
+
+This was a fork of https://github.com/rdpeng/ProgrammingAssignment2
+which I had to disconnect to create a new fork. Excellant
+specialization.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
